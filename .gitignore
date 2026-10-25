@@ -1,0 +1,6 @@
+/build/
+/results/*
+.vscode/
+/run.txt
+*.asv
+octave-workspace
