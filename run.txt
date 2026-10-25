@@ -1,0 +1,6 @@
+matlab -batch "cd('/home/shiv/ImageForgeryDetector'); addpath('matlab'); test_project"
+ //to open
+xdg-open /tmp/tp28a6dc49_2c72_4e56_b3ba_cc86f4f917fe
+
+cpp
+./build/forgery_detector input/example.png results/cpp/my_photo
