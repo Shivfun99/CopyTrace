@@ -1,0 +1,24 @@
+CLASSICAL DIP COPY-MOVE ANALYSIS
+Image: sample4_authentic.png
+Original dimensions: 512 x 512
+Processed dimensions: 512 x 512
+DCT candidate pairs: 2634
+DCT consistent pairs: 0
+DCT displacement groups: 0
+ORB candidate matches: 29
+ORB RANSAC inliers: 0
+Suspicious connected regions: 0
+Flagged area: 0.00%
+Processing time (excluding image loading and saving): 459.77 ms
+Assessment: NO STRONG COPY-MOVE INDICATORS
+Bounding boxes (zero-based x y width height, processed pixels):
+Both source and copied regions may be marked. Natural repeated patterns can also match.
+The result is an indicator, not proof of manipulation.
+Ground-truth mask: sample4_authentic_mask.png
+Evaluation uses processed pixels and nearest-neighbor truth resizing.
+Zero denominators produce a score of 0, including two empty masks.
+TP: 0 FP: 0 FN: 0
+Precision: 0.0000
+Recall: 0.0000
+F1: 0.0000
+IoU: 0.0000
