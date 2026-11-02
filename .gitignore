@@ -4,3 +4,5 @@
 /run.txt
 *.asv
 octave-workspace
+__pycache__/
+*.pyc

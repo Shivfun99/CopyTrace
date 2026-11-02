@@ -1,0 +1,26 @@
+CLASSICAL DIP COPY-MOVE ANALYSIS
+Image: sample3_scaling.png
+Original dimensions: 512 x 512
+Processed dimensions: 512 x 512
+DCT candidate pairs: 2410
+DCT consistent pairs: 0
+DCT displacement groups: 0
+ORB candidate matches: 52
+ORB RANSAC inliers: 16
+Suspicious connected regions: 2
+Flagged area: 2.95%
+Processing time (excluding image loading and saving): 519.89 ms
+Assessment: SUSPICIOUS MATCHED REGIONS
+Bounding boxes (zero-based x y width height, processed pixels):
+  1: 319 231 74 77
+  2: 82 284 65 67
+Both source and copied regions may be marked. Natural repeated patterns can also match.
+The result is an indicator, not proof of manipulation.
+Ground-truth mask: sample3_scaling_mask.png
+Evaluation uses processed pixels and nearest-neighbor truth resizing.
+Zero denominators produce a score of 0, including two empty masks.
+TP: 7678 FP: 58 FN: 3424
+Precision: 0.9925
+Recall: 0.6916
+F1: 0.8152
+IoU: 0.6880
